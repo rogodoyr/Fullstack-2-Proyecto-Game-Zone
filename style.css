@@ -240,6 +240,22 @@ nav ul li a:hover {
     color: #00ff88;
 }
 
+.producto h5 {
+    font-size: 18px;
+
+    margin-bottom: 15px;
+
+    color: #00ff88;
+}
+
+.producto h6 {
+    font-size: 18px;
+
+    margin-bottom: 15px;
+
+    color: #00ff88;
+}
+
 /* INFORMACION DEL PRODUCTO */
 
 .producto p {
